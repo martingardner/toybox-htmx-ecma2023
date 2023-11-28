@@ -10,3 +10,7 @@ https://www.valentinog.com/blog/fake/#json-server
 
 ### notes
 hx-get expects a return of html snippets.  So using json server it will print out the json object, but doesn't look like, inherently, there's a way to take care of it.
+
+https://htmx.org/docs/#requests
+
+htmx is a html shard consumer for getting.
