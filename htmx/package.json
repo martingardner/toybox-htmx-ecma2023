@@ -4,8 +4,12 @@
   "description": "testing out htmx using mock server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "stubapi": "json-server db.json"
   },
   "author": "Martin J Gardner II",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
 }
