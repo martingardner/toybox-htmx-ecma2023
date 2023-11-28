@@ -1,0 +1,11 @@
+{
+  "name": "htmx-json-server-mock",
+  "version": "1.0.0",
+  "description": "testing out htmx using mock server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin J Gardner II",
+  "license": "ISC"
+}
